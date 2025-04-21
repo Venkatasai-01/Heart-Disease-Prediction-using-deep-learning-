@@ -3,25 +3,7 @@ Heart Disease Prediction using deep learning and methods
 Project Title 
 Heart Disease Prediction using deep learning and methods. 
 
-Team Member
-Venkata sai Boinepally -700743700 CRN: 23259
-V V S Murthy kola -700729142 CRN:23216
-Nirmala Yarlagadda – 700733102 CRN:23216
-INJA AKHILESWAR REDDY-700744180 CRN:23216
-
-
-
-
-
-
-
-
-
-
-
-
- 
- Abstract:
+Abstract:
 The aim of this project is to develop a deep-learning model for predicting heart disease using various clinical and demographic features. The proposed model will use a large dataset of patient records to learn complex relationships between features and predict the occurrence of heart disease accurately. We will begin by preprocessing the data, cleaning it, and removing any missing values or outliers. Next, we will perform feature engineering to identify important features that can improve the model’s performance. Feature selection techniques such as recursive feature elimination and principal component analysis will be employed. We will then use several deep learning methods such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and deep belief networks (DBNs) to predict heart disease occurrence. These methods have been shown to perform well in a variety of medical applications and can learn complex patterns in the data. To optimize our model’s performance, we will use various techniques such as hyperparameter tuning, cross-validation, and ensembling. Transfer learning techniques will also transfer knowledge from pre-trained models to our heart disease prediction model. We will evaluate the performance of our model using several evaluation metrics such as accuracy, precision, recall, and F1 score. The proposed model’s interpretability will be improved using techniques such as local interpretable model-agnostic explanations (LIME) and Shapley additive explanations (SHAP). In conclusion, this project aims to develop an accurate and interpretable deep learning model for predicting heart disease occurrence. The proposed model can assist healthcare professionals in making accurate diagnoses and treatment decisions, leading to better patient health outcomes. Moreover, the development of this model can contribute to the advancement of deep learning-based medical 1 decision support systems. ]Heart disease is a leading cause of death worldwide and is a significant public health challenge. Early diagnosis of heart disease is essential for effective treatment and prevention. Machine learning approaches have been used to identify patterns in medical data that can aid in the prediction of heart disease. In recent years, deep learning methods have shown great potential in this regard. The aim of this project is to develop a deep-learning model for predicting heart disease using various clinical and demographic features. The proposed model will use a large dataset of patient records to learn complex relationships between features and predict the occurrence of heart disease accurately. We will begin by preprocessing the data, cleaning it, and removing any missing values or outliers. Next, we will perform feature engineering to identify important features that can improve the model’s performance. Feature selection techniques such as recursive feature elimination and principal component analysis will be employed. We will then use several deep learning methods such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and deep belief networks (DBNs) to predict heart disease occurrence. These methods have been shown to perform well in a variety of medical applications and can learn complex patterns in the data. To optimize our model’s performance, we will use various techniques such as hyperparameter tuning, cross-validation, and ensembling. Transfer learning techniques will also transfer knowledge from pre-trained models to our heart disease prediction model. We will evaluate the performance of our model using several evaluation metrics such as accuracy, precision, recall, and F1 score. The proposed model’s interpretability will be improved using techniques such as local interpretable model-agnostic explanations (LIME) and Shapley additive explanations (SHAP). In conclusion, this project aims to develop an accurate and interpretable deep learning model for predicting heart disease occurrence. The proposed model can assist healthcare professionals in making accurate diagnoses and treatment decisions, leading to better patient health outcomes. Moreover, the development of this model can contribute to the advancement of deep learning-based medical decision support systems.
 
 Keywords:
