@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction-using-deep-learning-
+# Heart-Disease-Prediction-using-deep-learning
 Heart Disease Prediction using deep learning and methods 
 Project Title 
 Heart Disease Prediction using deep learning and methods. 
